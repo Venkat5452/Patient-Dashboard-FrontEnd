@@ -35,7 +35,11 @@ You can access the live application using the following link: [Patients Dashboar
 
 7. **patientDetails.js**: 
    - Displays detailed information about a specific patient when clicked from the dashboard.
-
+  
+## How to Run The server 
+```bash
+nodemon server.js
+```
 ## Features
 
 - **User Authentication**: Secure login and signup processes with email OTP verification.
