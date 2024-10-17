@@ -6,6 +6,10 @@ This project is a healthcare management application designed to manage patient d
 
 You can access the live application using the following link: [Patients Dashboard](https://patientsdashboardsite.netlify.app/)
 
+## Backend GitHub Link 
+
+[Backend for Patient Dashboard](https://github.com/Venkat5452/Patient-Dashboard-backend).
+
 ## Front-End Structure
 
 ### Key Components and Files
