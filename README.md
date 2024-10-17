@@ -45,6 +45,26 @@ You can access the live application using the following link: [Patients Dashboar
 Login Page :
 ![image](https://github.com/user-attachments/assets/06294997-5918-4598-991c-281717e76e05)
 
+SignUp Page :
+![image](https://github.com/user-attachments/assets/6d5551f7-306b-4526-9edb-572de4256572)
+
+DashBoard : 
+![image](https://github.com/user-attachments/assets/d8892c57-0d5a-400e-8388-e2c632e4f042)
+
+Patients Details :
+![Screenshot (145)](https://github.com/user-attachments/assets/49c4fffe-8d2f-492c-9e8b-ea50ab84dfd4)
+
+Add Patient :
+![image](https://github.com/user-attachments/assets/ec57aafe-0ec2-46fa-a71c-aff40bf14b88)
+
+Add Prior Authorization :
+![image](https://github.com/user-attachments/assets/04bc869f-0e12-4052-a1b4-4c38231e097b)
+
+
+
+
+
+
 
 ## Dependencies
 
