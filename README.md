@@ -36,9 +36,9 @@ You can access the live application using the following link: [Patients Dashboar
 7. **patientDetails.js**: 
    - Displays detailed information about a specific patient when clicked from the dashboard.
   
-## How to Run The server 
+## How to start the application
 ```bash
-nodemon server.js
+npm start
 ```
 ## Features
 
