@@ -1,0 +1,28 @@
+/* Login.css */
+body, html {
+    height: 70%;
+    margin: 0;
+  }
+  
+  .welcome-message {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #007bff; /* Match the welcome message with Bootstrap's primary color */
+    text-align: center;
+  }
+  
+  .bg-light {
+    background-color: #f5f7fa; /* Light background color */
+  }
+  
+  /* Card styling */
+  .Card {
+    border-radius: 10px;
+  }
+  
+  @media (max-width: 576px) {
+    .welcome-message {
+      font-size: 2rem; /* Smaller font on mobile */
+    }
+  }
+  

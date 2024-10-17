@@ -1,0 +1,1 @@
+export const BASE_URL="https://patient-dashboard-backend-p2ew.onrender.com";
