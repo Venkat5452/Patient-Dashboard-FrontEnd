@@ -32,6 +32,20 @@ You can access the live application using the following link: [Patients Dashboar
 7. **patientDetails.js**: 
    - Displays detailed information about a specific patient when clicked from the dashboard.
 
+## Features
+
+- **User Authentication**: Secure login and signup processes with email OTP verification.
+- **Patient Management**: Ability to add, view, and manage patient details efficiently.
+- **Prior Authorization**: Submit authorization requests with relevant medical information.
+- **Responsive Design**: Bootstrap ensures a responsive user interface for various devices.
+- **Dashboard Overview**: A clear and organized dashboard displaying all patient information at a glance.
+- **Error Handling**: Handles errors gracefully during API requests, providing user-friendly feedback.
+- **Detailed Patient Information**: Clickable patient entries that lead to detailed views of patient data.
+
+Login Page :
+![image](https://github.com/user-attachments/assets/06294997-5918-4598-991c-281717e76e05)
+
+
 ## Dependencies
 
 To set up the project, ensure you have the following dependencies in your **package.json**:
@@ -50,17 +64,3 @@ To set up the project, ensure you have the following dependencies in your **pack
   "react-scripts": "5.0.1",
   "web-vitals": "^2.1.4"
 }
-
-## Features
-
-User Authentication: Secure login and signup processes with email OTP verification.
-Patient Management: Ability to add, view, and manage patient details efficiently.
-Prior Authorization: Submit authorization requests with relevant medical information.
-Responsive Design: Bootstrap ensures a responsive user interface for various devices.
-Dashboard Overview: A clear and organized dashboard displaying all patient information at a glance.
-Error Handling: Handles errors gracefully during API requests, providing user-friendly feedback.
-Detailed Patient Information: Clickable patient entries that lead to detailed views of patient data.
-Conclusion
-This healthcare management application provides a comprehensive solution for managing patient data and handling authorization requests. The deployed link allows users to interact with the application seamlessly, showcasing the functionality developed with modern web technologies.
-
-
