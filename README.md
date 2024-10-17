@@ -1,6 +1,6 @@
-# Healthcare Management Application
+# Patient Health Dashboard for Prior Authorization Application
 
-This project is a healthcare management application designed to manage patient data effectively and facilitate prior authorization requests. Built with **React.js**, **Bootstrap**, and **CSS**, this application allows healthcare professionals to authenticate, manage patients, and submit authorization requests seamlessly.
+This project is a Patient Health Dashboard for Prior Authorization application designed to manage patient data effectively and facilitate prior authorization requests. Built with **React.js**, **Bootstrap**, and **CSS**, this application allows healthcare professionals to authenticate, manage patients, and submit authorization requests seamlessly.
 
 ## Deployed Application
 
